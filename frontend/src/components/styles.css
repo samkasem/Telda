@@ -1,0 +1,13 @@
+.title {
+  font-family: "Pacifico", sans-serif;
+  font-size: 30px;
+}
+
+.link {
+  text-decoration: none;
+  color: black;
+}
+.link:hover {
+  text-decoration: underline;
+  color: black;
+}
